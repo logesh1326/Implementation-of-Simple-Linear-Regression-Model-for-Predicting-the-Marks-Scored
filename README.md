@@ -29,3 +29,6 @@ RegisterNumber:
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
+
+
+https://github.com/logesh1326/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/README.md
