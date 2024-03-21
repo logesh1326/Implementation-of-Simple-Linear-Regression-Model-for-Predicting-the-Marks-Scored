@@ -22,7 +22,8 @@ Developed by:
 RegisterNumber:  
 '''
 
-![Uploading image.png…]()
+![image](https://github.com/logesh1326/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/153622874/505202f1-16d4-4553-aaaf-5f26f13a9a7e)
+
 
 ## Output:
 ![image](https://github.com/logesh1326/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/153622874/45638176-40c6-4ac3-bf84-f502393c2811)
